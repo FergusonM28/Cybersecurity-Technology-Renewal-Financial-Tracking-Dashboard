@@ -1,4 +1,4 @@
-# Cybersecurity-Technology-Renewal-Financial-Tracking-Dashboard
+# Cybersecurity Technology Renewal Financial Tracking Dashboard
 
 
 This project simulates the responsibilities of a Cybersecurity Financial Operations Specialist by tracking enterprise cybersecurity technology renewals, annual software spend, vendor lifecycle management, purchase order (PO) status, business criticality, and renewal risk.
